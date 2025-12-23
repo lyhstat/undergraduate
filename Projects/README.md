@@ -1,4 +1,4 @@
- # Statistical Analysis Projects (learned from TKU)
+ # Statistical Analysis Projects 
 ## COURSE PROJECTS
 ### Logistic Regression (Categorical Data Analysis)- Spring 2024
 ●	Used an R program to build a breast cancer tumour classifier through a logistic regression model.
